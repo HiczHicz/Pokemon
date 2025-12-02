@@ -1,0 +1,1114 @@
+﻿#;Pokémon;Base capture rate;Base flee rate;Movement type
+1;Bulbasaur;20%;10%;Jump
+2;Ivysaur;10%;7%;Jump
+3;Venusaur;5%;5%;Jump
+4;Charmander;20%;10%;Jump
+5;Charmeleon;10%;7%;Jump
+6;Charizard;5%;5%;Flying
+7;Squirtle;20%;10%;Jump
+8;Wartortle;10%;7%;Jump
+9;Blastoise;5%;5%;Jump
+10;Caterpie;50%;20%;Jump
+11;Metapod;25%;9%;None
+12;Butterfree;12.5%;6%;Flying
+13;Weedle;50%;20%;Jump
+14;Kakuna;25%;9%;None
+15;Beedrill;12.5%;6%;Electric
+16;Pidgey;50%;20%;Jump
+17;Pidgeotto;25%;9%;Flying
+18;Pidgeot;12.5%;6%;Flying
+19;Rattata;50%;20%;Jump
+20;Raticate;20%;7%;Jump
+;;;;
+;;;;
+21;Spearow;50%;15%;Jump
+22;Fearow;20%;7%;Flying
+23;Ekans;50%;15%;Jump
+24;Arbok;20%;7%;Jump
+25;Pikachu;20%;10%;Jump
+26;Raichu;10%;6%;Jump
+26;Raichu (Alolan Form);10%;6%;Jump
+27;Sandshrew;50%;10%;Jump
+28;Sandslash;20%;6%;Jump
+28;Sandslash;20%;6%;Jump
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+29;Nidoran♀;50%;15%;Jump
+30;Nidorina;25%;7%;Jump
+31;Nidoqueen;12.5%;5%;Jump
+32;Nidoran♂;50%;15%;Jump
+33;Nidorino;25%;7%;Jump
+34;Nidoking;12.5%;5%;Jump
+35;Clefairy;30%;10%;Jump
+36;Clefable;10%;6%;Jump
+37;Vulpix;30%;10%;Jump
+37;Vulpix;30%;10%;Jump
+;(Alolan Form);;;
+38;Ninetales;10%;6%;Jump
+38;Ninetales;10%;6%;Jump
+;(Alolan Form);;;
+39;Jigglypuff;50%;10%;Jump
+40;Wigglytuff;20%;6%;Jump
+41;Zubat;50%;20%;Electric
+42;Golbat;20%;7%;Flying
+43;Oddish;60%;15%;Jump
+44;Gloom;30%;7%;Jump
+45;Vileplume;15%;5%;Jump
+46;Paras;40%;15%;Jump
+47;Parasect;20%;7%;Jump
+48;Venonat;50%;15%;Jump
+49;Venomoth;20%;7%;Flying
+50;Diglett;50%;10%;None
+50;Diglett;50%;10%;None
+;(Alolan Form);;;
+51;Dugtrio;20%;6%;None
+51;Dugtrio;20%;6%;None
+;(Alolan Form);;;
+52;Meowth;50%;15%;Jump
+52;Meowth;50%;15%;Jump
+;(Alolan Form);;;
+52;Meowth;45%;10%;Jump
+;(Galarian Form);;;
+53;Persian;20%;7%;Jump
+53;Persian;20%;7%;Jump
+;(Alolan Form);;;
+54;Psyduck;50%;10%;Jump
+55;Golduck;20%;6%;Jump
+56;Mankey;50%;10%;Jump
+57;Primeape;20%;6%;Jump
+58;Growlithe;30%;10%;Jump
+58;Growlithe;30%;10%;Jump
+;(Hisuian Form);;;
+59;Arcanine;10%;6%;Jump
+59;Arcanine;10%;6%;Jump
+;(Hisuian Form);;;
+60;Poliwag;50%;15%;Jump
+61;Poliwhirl;25%;7%;Jump
+62;Poliwrath;12.5%;5%;Jump
+63;Abra;50%;99%;Psychic
+64;Kadabra;25%;7%;Jump
+65;Alakazam;10%;5%;Jump
+66;Machop;50%;10%;Jump
+67;Machoke;25%;7%;Jump
+68;Machamp;10%;5%;Jump
+69;Bellsprout;50%;15%;Jump
+70;Weepinbell;25%;7%;Jump
+71;Victreebel;12.5%;5%;Jump
+72;Tentacool;50%;15%;Hovering
+73;Tentacruel;20%;7%;Hovering
+74;Geodude;50%;10%;Hovering
+74;Geodude;50%;10%;Hovering
+;(Alolan Form);;;
+75;Graveler;25%;7%;Jump
+75;Graveler;25%;7%;Jump
+;(Alolan Form);;;
+76;Golem;12.5%;5%;Jump
+76;Golem;12.5%;5%;Jump
+;(Alolan Form);;;
+77;Ponyta;40%;10%;Jump
+77;Ponyta;40%;10%;Jump
+;(Galarian Form);;;
+78;Rapidash;15%;6%;Jump
+78;Rapidash;15%;6%;Jump
+;(Galarian Form);;;
+79;Slowpoke;50%;10%;Jump
+79;Slowpoke;50%;10%;Jump
+;(Galarian Form);;;
+80;Slowbro;20%;6%;Jump
+80;Slowbro;20%;6%;Jump
+;(Galarian Form);;;
+81;Magnemite;50%;10%;Electric
+82;Magneton;20%;6%;Electric
+83;Farfetch'd;30%;9%;Jump
+83;Farfetch'd;30%;9%;Jump
+;(Galarian Form);;;
+84;Doduo;50%;10%;Jump
+85;Dodrio;20%;6%;Jump
+86;Seel;50%;9%;Jump
+87;Dewgong;20%;6%;Hovering
+88;Grimer;50%;10%;Jump
+88;Grimer;50%;10%;Jump
+;(Alolan Form);;;
+89;Muk;20%;6%;Jump
+89;Muk;20%;6%;Jump
+;(Alolan Form);;;
+90;Shellder;50%;10%;Jump
+91;Cloyster;20%;6%;Hovering
+92;Gastly;40%;10%;Psychic
+93;Haunter;20%;7%;Psychic
+94;Gengar;10%;5%;Jump
+95;Onix;20%;9%;None
+96;Drowzee;50%;10%;Jump
+97;Hypno;20%;6%;Jump
+98;Krabby;50%;15%;Jump
+99;Kingler;20%;7%;Jump
+100;Voltorb;50%;10%;Jump
+100;Voltorb;50%;10%;Jump
+;(Hisuian Form);;;
+101;Electrode;20%;6%;Jump
+101;Electrode;20%;6%;Jump
+;(Hisuian Form);;;
+102;Exeggcute;50%;10%;Jump
+103;Exeggutor;20%;6%;Jump
+103;Exeggutor;20%;6%;Jump
+;(Alolan Form);;;
+104;Cubone;40%;10%;Jump
+105;Marowak;15%;6%;Jump
+105;Marowak;15%;6%;Jump
+;(Alolan Form);;;
+106;Hitmonlee;20%;9%;Jump
+107;Hitmonchan;20%;9%;Jump
+108;Lickitung;20%;9%;Jump
+109;Koffing;50%;10%;Psychic
+110;Weezing;20%;6%;Hovering
+110;Weezing;20%;6%;Hovering
+;(Galarian Form);;;
+111;Rhyhorn;50%;10%;Jump
+112;Rhydon;5%;6%;Jump
+113;Chansey;20%;9%;Jump
+114;Tangela;40%;9%;Jump
+115;Kangaskhan;20%;9%;Jump
+116;Horsea;50%;10%;Hovering
+117;Seadra;20%;6%;Hovering
+118;Goldeen;50%;15%;Hovering
+119;Seaking;20%;7%;Hovering
+120;Staryu;50%;15%;Jump
+121;Starmie;20%;6%;Jump
+122;Mr. Mime;30%;9%;Jump
+122;Mr. Mime;30%;9%;Jump
+;(Galarian Form);;;
+123;Scyther;30%;9%;Hovering
+124;Jynx;30%;9%;Jump
+125;Electabuzz;20%;9%;Jump
+126;Magmar;20%;9%;Jump
+127;Pinsir;30%;9%;Jump
+128;Tauros;30%;9%;Jump
+128;Tauros;30%;9%;Jump
+;"(Paldean Form; Combat Breed)";;;
+128;Tauros;30%;9%;Jump
+;"(Paldean Form; Blaze Breed)";;;
+128;Tauros;30%;9%;Jump
+;"(Paldean Form; Aqua Breed)";;;
+129;Magikarp;70%;15%;None
+130;Gyarados;10%;7%;Hovering
+131;Lapras;5%;9%;Jump
+132;Ditto;20%;10%;Jump
+133;Eevee;40%;10%;Jump
+134;Vaporeon;12.5%;6%;Jump
+135;Jolteon;12.5%;6%;Jump
+136;Flareon;12.5%;6%;Jump
+137;Porygon;40%;9%;Hovering
+138;Omanyte;40%;9%;Jump
+139;Omastar;15%;5%;Jump
+140;Kabuto;40%;9%;Jump
+141;Kabutops;15%;5%;Jump
+142;Aerodactyl;20%;9%;Flying
+143;Snorlax;5%;9%;Jump
+144;Articuno;0.3%;90%;Flying
+;(Galarian Form);;;
+144;Articuno;3%;10%;Flying
+145;Zapdos;0.3%;90%;Jump
+;(Galarian Form);;;
+145;Zapdos;3%;10%;Electric
+146;Moltres;0.3%;90%;Flying
+;(Galarian Form);;;
+146;Moltres;3%;10%;Flying
+147;Dratini;40%;9%;Jump
+148;Dragonair;10%;6%;Jump
+149;Dragonite;5%;5%;Flying
+150;Mewtwo;2%;10%;Jump
+151;Mew;10000%;-;Hovering
+152;Chikorita;20%;10%;Jump
+153;Bayleef;12.5%;7%;Jump
+154;Meganium;5%;5%;Jump
+155;Cyndaquil;20%;10%;Jump
+156;Quilava;12.5%;7%;Jump
+157;Typhlosion;5%;5%;Jump
+158;Totodile;20%;10%;Jump
+159;Croconaw;12.5%;7%;Jump
+160;Feraligatr;5%;5%;Jump
+161;Sentret;50%;20%;Jump
+162;Furret;15%;7%;Jump
+163;Hoothoot;50%;15%;Jump
+164;Noctowl;15%;7%;Flying
+165;Ledyba;50%;20%;Electric
+166;Ledian;15%;7%;Electric
+167;Spinarak;50%;20%;Jump
+168;Ariados;15%;7%;Jump
+169;Crobat;10%;5%;Flying
+170;Chinchou;40%;10%;Hovering
+171;Lanturn;15%;7%;Hovering
+172;Pichu;25%;5%;Jump
+173;Cleffa;25%;5%;Jump
+174;Igglybuff;25%;5%;Hovering
+175;Togepi;25%;5%;Jump
+176;Togetic;20%;5%;Flying
+177;Natu;40%;15%;Jump
+178;Xatu;15%;7%;Flying
+179;Mareep;50%;10%;Jump
+180;Flaaffy;25%;7%;Jump
+181;Ampharos;12.5%;5%;Jump
+182;Bellossom;5%;5%;Jump
+183;Marill;50%;10%;Jump
+184;Azumarill;15%;7%;Jump
+185;Sudowoodo;12.5%;5%;None
+186;Politoed;10%;5%;Jump
+187;Hoppip;50%;12%;Flying
+188;Skiploom;25%;7%;Flying
+189;Jumpluff;12.5%;5%;Flying
+190;Aipom;20%;9%;Jump
+191;Sunkern;50%;9%;Jump
+192;Sunflora;10%;7%;Jump
+193;Yanma;30%;10%;Electric
+194;Wooper;40%;10%;Jump
+194;Wooper;40%;10%;Jump
+;(Paldean Form);;;
+195;Quagsire;15%;7%;Jump
+196;Espeon;12.5%;5%;Jump
+197;Umbreon;12.5%;5%;Jump
+198;Murkrow;20%;10%;Jump
+199;Slowking;10%;5%;None
+199;Slowking;10%;5%;None
+;(Galarian Form);;;
+200;Misdreavus;30%;7%;Psychic
+201;Unown;30%;10%;Psychic
+202;Wobbuffet;25%;7%;Jump
+203;Girafarig;30%;7%;Jump
+204;Pineco;40%;12%;Jump
+205;Forretress;15%;7%;Hovering
+206;Dunsparce;30%;20%;Jump
+207;Gligar;20%;7%;Hovering
+208;Steelix;10%;5%;None
+209;Snubbull;40%;10%;Jump
+210;Granbull;15%;8%;Jump
+211;Qwilfish;30%;8%;Hovering
+211;Qwilfish;30%;8%;Hovering
+;(Hisuian Form);;;
+212;Scizor;5%;5%;Jump
+213;Shuckle;30%;7%;Jump
+214;Heracross;30%;9%;Jump
+215;Sneasel;20%;7%;Jump
+215;Sneasel;20%;7%;Jump
+;(Hisuian Form);;;
+216;Teddiursa;50%;20%;Jump
+217;Ursaring;15%;7%;Jump
+218;Slugma;30%;10%;Jump
+219;Magcargo;12.5%;6%;Jump
+220;Swinub;30%;10%;Jump
+221;Piloswine;12.5%;6%;Jump
+222;Corsola;30%;12%;None
+223;Remoraid;50%;10%;Hovering
+224;Octillery;15%;7%;Jump
+225;Delibird;20%;20%;Jump
+226;Mantine;30%;7%;Hovering
+227;Skarmory;20%;9%;Flying
+228;Houndour;40%;10%;Jump
+229;Houndoom;15%;6%;Jump
+230;Kingdra;10%;5%;Hovering
+231;Phanpy;50%;20%;Jump
+232;Donphan;12.5%;7%;Jump
+233;Porygon2;5%;5%;Hovering
+234;Stantler;30%;8%;Jump
+235;Smeargle;25%;7%;Jump
+236;Tyrogue;25%;20%;Jump
+237;Hitmontop;10%;5%;Jump
+238;Smoochum;25%;20%;Jump
+239;Elekid;25%;20%;Jump
+240;Magby;25%;20%;Jump
+241;Miltank;20%;8%;Jump
+242;Blissey;5%;5%;Jump
+243;Raikou;2%;4%;Jump
+244;Entei;2%;4%;Jump
+245;Suicune;2%;4%;Jump
+246;Larvitar;40%;10%;Jump
+247;Pupitar;10%;7%;Jump
+248;Tyranitar;5%;4%;Jump
+249;Lugia;2%;4%;Flying
+250;Ho-Oh;2%;4%;Flying
+251;Celebi;10000%;-;Hovering
+252;Treecko;20%;10%;Jump
+253;Grovyle;10%;7%;Jump
+254;Sceptile;5%;5%;Jump
+255;Torchic;20%;10%;Jump
+256;Combusken;10%;7%;Jump
+257;Blaziken;5%;5%;Jump
+258;Mudkip;20%;10%;Jump
+259;Marshtomp;10%;7%;Jump
+260;Swampert;5%;5%;Jump
+261;Poochyena;50%;20%;Jump
+262;Mightyena;20%;7%;Jump
+263;Zigzagoon;50%;20%;Jump
+263;Zigzagoon;50%;20%;Jump
+;(Galarian Form);;;
+264;Linoone;20%;7%;Jump
+264;Linoone;20%;7%;Jump
+;(Galarian Form);;;
+265;Wurmple;50%;20%;Jump
+266;Silcoon;25%;9%;Jump
+267;Beautifly;12.5%;6%;Flying
+268;Cascoon;25%;9%;Jump
+269;Dustox;12.5%;6%;Flying
+270;Lotad;50%;20%;Jump
+271;Lombre;25%;9%;Jump
+272;Ludicolo;12.5%;6%;Jump
+273;Seedot;50%;20%;Jump
+274;Nuzleaf;25%;9%;Jump
+275;Shiftry;12.5%;6%;Jump
+276;Taillow;50%;20%;Jump
+277;Swellow;20%;7%;Flying
+278;Wingull;50%;20%;Flying
+279;Pelipper;20%;7%;Flying
+280;Ralts;40%;9%;Jump
+281;Kirlia;10%;6%;Jump
+282;Gardevoir;5%;5%;Jump
+283;Surskit;50%;20%;Jump
+284;Masquerain;20%;7%;Electric
+285;Shroomish;50%;20%;Jump
+286;Breloom;20%;7%;Jump
+287;Slakoth;40%;9%;Jump
+288;Vigoroth;10%;6%;Jump
+289;Slaking;5%;5%;None
+290;Nincada;20%;10%;Jump
+291;Ninjask;10%;7%;Electric
+292;Shedinja;5%;5%;Hovering
+293;Whismur;50%;20%;Jump
+294;Loudred;25%;9%;Jump
+295;Exploud;12.5%;6%;Jump
+296;Makuhita;50%;10%;Jump
+297;Hariyama;20%;6%;Jump
+298;Azurill;10%;4%;Jump
+299;Nosepass;20%;9%;Jump
+300;Skitty;50%;10%;Jump
+301;Delcatty;20%;6%;Jump
+302;Sableye;20%;7%;Jump
+303;Mawile;50%;9%;Jump
+304;Aron;50%;20%;Jump
+305;Lairon;25%;9%;Jump
+306;Aggron;12.5%;6%;Jump
+307;Meditite;50%;10%;Jump
+308;Medicham;20%;6%;Jump
+309;Electrike;50%;10%;Jump
+310;Manectric;20%;6%;Jump
+311;Plusle;30%;9%;Jump
+312;Minun;30%;9%;Jump
+313;Volbeat;30%;9%;Jump
+314;Illumise;30%;9%;Jump
+315;Roselia;30%;9%;Jump
+316;Gulpin;50%;10%;Jump
+317;Swalot;20%;6%;Jump
+318;Carvanha;50%;10%;Hovering
+319;Sharpedo;20%;6%;Hovering
+320;Wailmer;50%;10%;Hovering
+321;Wailord;20%;6%;None
+322;Numel;50%;10%;Jump
+323;Camerupt;20%;6%;None
+324;Torkoal;30%;9%;None
+325;Spoink;50%;10%;Jump
+326;Grumpig;20%;6%;Jump
+327;Spinda;30%;9%;Hovering
+328;Trapinch;40%;9%;Jump
+329;Vibrava;10%;6%;Electric
+330;Flygon;5%;5%;Flying
+331;Cacnea;50%;10%;Jump
+332;Cacturne;20%;6%;Jump
+333;Swablu;50%;10%;Flying
+334;Altaria;20%;6%;Flying
+335;Zangoose;30%;9%;Jump
+336;Seviper;30%;9%;Jump
+337;Lunatone;30%;9%;Hovering
+338;Solrock;30%;9%;Hovering
+339;Barboach;50%;10%;Hovering
+340;Whiscash;20%;6%;Hovering
+341;Corphish;50%;10%;Jump
+342;Crawdaunt;20%;6%;Jump
+343;Baltoy;50%;10%;Psychic
+344;Claydol;20%;6%;Hovering
+345;Lileep;50%;10%;None
+346;Cradily;20%;6%;None
+347;Anorith;50%;10%;Hovering
+348;Armaldo;20%;6%;Jump
+349;Feebas;70%;15%;Hovering
+350;Milotic;10%;7%;Jump
+351;Castform;30%;10%;Hovering
+351;Castform;30%;10%;Hovering
+;(Rainy Form);;;
+351;Castform;30%;10%;Hovering
+;(Snowy Form);;;
+351;Castform;30%;10%;Hovering
+;(Sunny Form);;;
+352;Kecleon;30%;10%;Jump
+353;Shuppet;40%;10%;Hovering
+354;Banette;20%;7%;Jump
+355;Duskull;40%;10%;Hovering
+356;Dusclops;20%;7%;Jump
+357;Tropius;30%;10%;Flying
+358;Chimecho;30%;10%;Hovering
+359;Absol;50%;10%;Jump
+360;Wynaut;30%;10%;Jump
+361;Snorunt;50%;10%;Jump
+362;Glalie;20%;6%;Hovering
+363;Spheal;50%;10%;Jump
+364;Sealeo;25%;7%;Jump
+365;Walrein;12.5%;5%;Jump
+366;Clamperl;50%;10%;None
+367;Huntail;20%;6%;Hovering
+368;Gorebyss;20%;6%;Hovering
+369;Relicanth;90%;1%;Hovering
+370;Luvdisc;30%;10%;Hovering
+371;Bagon;40%;9%;Jump
+372;Shelgon;10%;6%;Jump
+373;Salamence;5%;5%;Flying
+374;Beldum;40%;9%;Hovering
+375;Metang;10%;6%;Hovering
+376;Metagross;5%;5%;Jump
+377;Regirock;2%;1%;Jump
+378;Regice;2%;1%;Jump
+379;Registeel;2%;1%;Jump
+380;Latias;2%;1%;Flying
+381;Latios;2%;1%;Flying
+382;Kyogre;2%;1%;Hovering
+383;Groudon;2%;1%;None
+384;Rayquaza;2%;1%;Flying
+385;Jirachi;10000%;-;Hovering
+386;Deoxys;2%;1%;Jump
+;(Normal Forme);;;
+386;Deoxys;2%;1%;Jump
+;(Attack Forme);;;
+386;Deoxys;6%;1%;Jump
+;(Defense Forme);;;
+386;Deoxys;2%;1%;Jump
+;(Speed Forme);;;
+387;Turtwig;20%;10%;Jump
+388;Grotle;10%;7%;Jump
+389;Torterra;5%;5%;None
+390;Chimchar;20%;10%;Jump
+391;Monferno;10%;7%;Jump
+392;Infernape;5%;5%;Jump
+393;Piplup;20%;10%;Jump
+394;Prinplup;10%;7%;Jump
+395;Empoleon;5%;5%;Jump
+396;Starly;50%;20%;Jump
+397;Staravia;25%;9%;Flying
+398;Staraptor;12.5%;6%;Flying
+399;Bidoof;50%;20%;Jump
+400;Bibarel;20%;7%;Jump
+401;Kricketot;50%;20%;Jump
+402;Kricketune;20%;7%;Jump
+403;Shinx;50%;10%;Jump
+404;Luxio;25%;7%;Jump
+405;Luxray;12.5%;5%;Jump
+406;Budew;10%;4%;Jump
+407;Roserade;15%;7%;Jump
+408;Cranidos;50%;10%;Jump
+409;Rampardos;20%;6%;Jump
+410;Shieldon;50%;10%;None
+411;Bastiodon;20%;6%;None
+412;Burmy;50%;20%;Flying
+;(Plant Cloak);;;
+412;Burmy;50%;20%;Flying
+;(Sandy Cloak);;;
+412;Burmy;50%;20%;Flying
+;(Trash Cloak);;;
+413;Wormadam;15%;7%;Flying
+;(Plant Cloak);;;
+413;Wormadam;15%;7%;Flying
+;(Sandy Cloak);;;
+413;Wormadam;15%;7%;Flying
+;(Trash Cloak);;;
+414;Mothim;15%;7%;Flying
+415;Combee;15%;7%;Psychic
+416;Vespiquen;15%;7%;Psychic
+417;Pachirisu;30%;9%;Jump
+418;Buizel;50%;10%;Jump
+419;Floatzel;20%;6%;Jump
+420;Cherubi;50%;9%;Jump
+421;Cherrim;10%;7%;Jump
+;(Overcast Form);;;
+0421S;Cherrim;10%;7%;Jump
+;(Sunshine Form);;;
+422;Shellos;50%;10%;Jump
+;(West Sea);;;
+422;Shellos;50%;10%;Jump
+;(East Sea);;;
+423;Gastrodon;20%;6%;Jump
+;(West Sea);;;
+423;Gastrodon;20%;6%;Jump
+;(East Sea);;;
+424;Ambipom;20%;6%;Jump
+425;Drifloon;40%;10%;Flying
+426;Drifblim;20%;7%;Flying
+427;Buneary;50%;10%;Jump
+428;Lopunny;20%;6%;Jump
+429;Mismagius;10%;7%;Hovering
+430;Honchkrow;10%;7%;Jump
+431;Glameow;40%;10%;Jump
+432;Purugly;15%;8%;Jump
+433;Chingling;10%;4%;Electric
+434;Stunky;50%;10%;Jump
+435;Skuntank;20%;6%;Jump
+436;Bronzor;50%;10%;Hovering
+437;Bronzong;20%;6%;Hovering
+438;Bonsly;10%;4%;Jump
+439;Mime Jr.;10%;4%;Jump
+440;Happiny;10%;4%;Jump
+441;Chatot;30%;9%;Jump
+442;Spiritomb;10%;4%;None
+443;Gible;40%;9%;Jump
+444;Gabite;10%;6%;Jump
+445;Garchomp;5%;5%;Jump
+446;Munchlax;10%;4%;Jump
+447;Riolu;25%;20%;Jump
+448;Lucario;10%;5%;Jump
+449;Hippopotas;40%;10%;None
+450;Hippowdon;15%;8%;None
+451;Skorupi;40%;10%;Jump
+452;Drapion;15%;8%;Jump
+453;Croagunk;40%;12%;Jump
+454;Toxicroak;15%;7%;Jump
+455;Carnivine;90%;1%;Hovering
+456;Finneon;50%;10%;Hovering
+457;Lumineon;20%;6%;Hovering
+458;Mantyke;10%;4%;Hovering
+459;Snover;30%;10%;Jump
+460;Abomasnow;12.5%;6%;None
+461;Weavile;15%;9%;Jump
+462;Magnezone;12.5%;5%;Hovering
+463;Lickilicky;15%;9%;Jump
+464;Rhyperior;5%;5%;Jump
+465;Tangrowth;15%;10%;Jump
+466;Electivire;15%;10%;Jump
+467;Magmortar;15%;10%;Jump
+468;Togekiss;1%;5%;Flying
+469;Yanmega;17.5%;5%;Electric
+470;Leafeon;12.5%;6%;Jump
+471;Glaceon;12.5%;6%;Jump
+472;Gliscor;12.5%;9%;Jump
+473;Mamoswine;5%;5%;Jump
+474;Porygon-Z;5%;5%;Hovering
+475;Gallade;50%;5%;Jump
+476;Probopass;10%;7%;None
+477;Dusknoir;10%;5%;Hovering
+478;Froslass;20%;7%;Hovering
+479;Rotom;30%;10%;Hovering
+479;Rotom;30%;10%;Flying
+;(Fan Rotom);;;
+479;Rotom;30%;10%;Hovering
+;(Frost Rotom);;;
+479;Rotom;30%;10%;Hovering
+;(Heat Rotom);;;
+479;Rotom;30%;10%;Hovering
+;(Mow Rotom);;;
+479;Rotom;30%;10%;Hovering
+;(Wash Rotom);;;
+480;Uxie;2%;-;Flying
+481;Mesprit;2%;-;Flying
+482;Azelf;2%;-;Flying
+483;Dialga;2%;4%;Jump
+484;Palkia;2%;4%;Jump
+485;Heatran;2%;4%;Jump
+486;Regigigas;2%;4%;None
+487;Giratina;2%;4%;Jump
+;(Altered Forme);;;
+487;Giratina;2%;4%;Flying
+;(Origin Forme);;;
+488;Cresselia;2%;4%;Hovering
+489;Phione;2%;-;Flying
+490;Manaphy;2%;-;Flying
+491;Darkrai;2%;-;Hovering
+492;Shaymin(Land Forme);10000%;-;Jump
+0492S;Shaymin;10000%;-;Jump
+;(Sky Forme);;;
+493;Arceus;2%;-;Jump
+494;Victini;10000%;-;Jump
+495;Snivy;20%;10%;Jump
+496;Servine;10%;10%;Jump
+497;Serperior;5%;5%;Jump
+498;Tepig;20%;10%;Jump
+499;Pignite;10%;7%;Jump
+500;Emboar;5%;5%;Jump
+501;Oshawott;20%;10%;Jump
+502;Dewott;10%;7%;Jump
+503;Samurott;5%;5%;Jump
+503;Samurott;5%;5%;Jump
+;(Hisuian Form);;;
+504;Patrat;50%;20%;Jump
+505;Watchog;20%;7%;Jump
+506;Lillipup;50%;20%;Jump
+507;Herdier;25%;9%;Jump
+508;Stoutland;12.5%;5%;Jump
+509;Purrloin;50%;20%;Jump
+510;Liepard;20%;7%;Jump
+511;Pansage;50%;20%;Jump
+512;Simisage;20%;7%;Jump
+513;Pansear;50%;20%;Jump
+514;Simisear;20%;7%;Jump
+515;Panpour;50%;20%;Jump
+516;Simipour;20%;7%;Jump
+517;Munna;50%;20%;Hovering
+518;Musharna;20%;7%;Hovering
+519;Pidove;50%;20%;Jump
+520;Tranquill;25%;9%;Flying
+521;Unfezant;12.5%;5%;Flying
+522;Blitzle;30%;10%;Jump
+523;Zebstrika;10%;7%;Jump
+524;Roggenrola;50%;15%;Jump
+525;Boldore;25%;7%;Jump
+526;Gigalith;12.5%;5%;Jump
+527;Woobat;50%;20%;Psychic
+528;Swoobat;20%;7%;Psychic
+529;Drilbur;50%;20%;Jump
+530;Excadrill;20%;7%;Jump
+531;Audino;5%;5%;Jump
+532;Timburr;50%;15%;Jump
+533;Gurdurr;25%;7%;Jump
+534;Conkeldurr;12.5%;5%;Jump
+535;Tympole;50%;15%;Hovering
+536;Palpitoad;25%;7%;Jump
+537;Seismitoad;12.5%;5%;Jump
+538;Throh;20%;7%;Jump
+539;Sawk;20%;7%;Jump
+540;Sewaddle;50%;15%;Jump
+541;Swadloon;25%;7%;Jump
+542;Leavanny;12.5%;5%;Jump
+543;Venipede;30%;10%;Jump
+544;Whirlipede;15%;5%;Jump
+545;Scolipede;20%;7%;Jump
+546;Cottonee;30%;10%;Hovering
+547;Whimsicott;15%;5%;Jump
+548;Petilil;30%;10%;Jump
+549;Lilligant;15%;5%;Jump
+549;Lilligant;15%;5%;Jump
+;(Hisuian Form);;;
+550;Basculin;20%;7%;Hovering
+;(Red-Striped Form);;;
+550;Basculin;20%;7%;Hovering
+;(Blue-Striped Form);;;
+550;Basculin;20%;7%;Hovering
+;(White-Striped Form);;;
+551;Sandile;50%;15%;Jump
+552;Krokorok;25%;7%;Jump
+553;Krookodile;12.5%;5%;Jump
+554;Darumaka;30%;9%;Jump
+0554G;Darumaka;30%;9%;Jump
+;(Galarian Form);;;
+555;Darmanitan;10%;7%;Jump
+555;Darmanitan;10%;7%;Jump
+;(Zen Mode);;;
+555;Darmanitan;10%;7%;Jump
+;(Galarian Form);;;
+555;Darmanitan;10%;7%;Jump
+;(Galarian Form Zen Mode);;;
+556;Maractus;20%;7%;Jump
+557;Dwebble;30%;10%;Jump
+558;Crustle;10%;7%;Jump
+559;Scraggy;30%;9%;Jump
+560;Scrafty;10%;7%;Jump
+561;Sigilyph;20%;7%;Hovering
+562;Yamask;30%;10%;Psychic
+562;Yamask;30%;10%;Psychic
+;(Galarian Form);;;
+563;Cofagrigus;10%;7%;Psychic
+564;Tirtouga;30%;10%;Jump
+565;Carracosta;10%;7%;Jump
+566;Archen;30%;9%;Jump
+567;Archeops;10%;7%;Flying
+568;Trubbish;30%;9%;Jump
+569;Garbodor;10%;7%;Jump
+570;Zorua;30%;9%;Jump
+570;Zorua;30%;9%;Jump
+;(Hisuian Form);;;
+571;Zoroark;10%;7%;Jump
+571;Zoroark;10%;7%;Jump
+;(Hisuian Form);;;
+572;Minccino;30%;10%;Jump
+573;Cinccino;10%;7%;Jump
+574;Gothita;50%;15%;Jump
+575;Gothorita;25%;7%;Jump
+576;Gothitelle;12.5%;5%;Jump
+577;Solosis;50%;15%;Hovering
+578;Duosion;25%;7%;Hovering
+579;Reuniclus;12.5%;5%;Hovering
+580;Ducklett;50%;15%;Jump
+581;Swanna;40%;12%;Flying
+582;Vanillite;40%;7%;Hovering
+583;Vanillish;5%;5%;Hovering
+584;Vanilluxe;12.5%;5%;Hovering
+585;Deerling;30%;10%;Jump
+;(Spring Form);;;
+585;Deerling;30%;10%;Jump
+;(Summer Form);;;
+585;Deerling;30%;10%;Jump
+;(Autumn Form);;;
+585;Deerling;30%;10%;Jump
+;(Winter Form);;;
+586;Sawsbuck;20%;7%;Jump
+;(Winter Form);;;
+586;Sawsbuck;15%;5%;Jump
+;(Spring Form);;;
+586;Sawsbuck;15%;5%;Jump
+;(Summer Form);;;
+586;Sawsbuck;15%;5%;Jump
+;(Autumn Form);;;
+587;Emolga;20%;7%;Hovering
+588;Karrablast;30%;10%;Jump
+589;Escavalier;12.5%;5%;Hovering
+590;Foongus;30%;10%;Jump
+591;Amoonguss;12.5%;5%;Jump
+592;Frillish;30%;9%;Hovering
+592;Jellicent;12.5%;5%;Hovering
+594;Alomomola;20%;7%;Hovering
+595;Joltik;30%;10%;Jump
+596;Galvantula;12.5%;5%;Jump
+597;Ferroseed;30%;9%;Jump
+598;Ferrothorn;12.5%;5%;Jump
+599;Klink;40%;10%;Hovering
+600;Klang;10%;7%;Hovering
+601;Klinklang;5%;5%;Hovering
+602;Tynamo;40%;15%;Hovering
+603;Eelektrik;10%;7%;Hovering
+604;Eelektross;5%;5%;Hovering
+605;Elgyem;30%;10%;Psychic
+606;Beheeyem;15%;5%;Jump
+607;Litwick;40%;9%;Jump
+608;Lampent;10%;7%;Hovering
+609;Chandelure;5%;5%;Hovering
+610;Axew;40%;9%;Jump
+611;Fraxure;10%;7%;Jump
+612;Haxorus;5%;5%;Jump
+613;Cubchoo;30%;10%;Jump
+614;Beartic;15%;5%;Jump
+615;Cryogonal;20%;7%;Hovering
+616;Shelmet;30%;10%;Jump
+617;Accelgor;15%;5%;Jump
+618;Stunfisk;20%;7%;Jump
+0618G;Stunfisk;20%;7%;Jump
+;(Galarian Form);;;
+619;Mienfoo;30%;10%;Jump
+620;Mienshao;15%;5%;Jump
+621;Druddigon;20%;7%;Jump
+622;Golett;30%;10%;Jump
+623;Golurk;15%;5%;Jump
+624;Pawniard;30%;9%;Jump
+625;Bisharp;15%;5%;Jump
+626;Bouffalant;20%;7%;Jump
+627;Rufflet;30%;10%;Jump
+628;Braviary;15%;5%;Flying
+628;Braviary;15%;5%;Flying
+;(Hisuian Form);;;
+629;Vullaby;30%;10%;Jump
+630;Mandibuzz;15%;5%;Flying
+631;Heatmor;20%;7%;Jump
+632;Durant;20%;7%;Jump
+633;Deino;40%;9%;Jump
+634;Zweilous;10%;7%;Jump
+635;Hydreigon;5%;5%;Flying
+636;Larvesta;70%;15%;Jump
+637;Volcarona;10%;7%;Hovering
+638;Cobalion;2%;1%;Jump
+639;Terrakion;2%;1%;Jump
+640;Virizion;2%;1%;Jump
+641;Tornadus;2%;1%;Hovering
+;(Incarnate Forme);;;
+641;Tornadus;2%;1%;Flying
+;(Therian Forme);;;
+642;Thundurus;2%;1%;Hovering
+;(Incarnate Forme);;;
+642;Thundurus;2%;1%;Hovering
+;(Therian Forme);;;
+643;Reshiram;2%;1%;Jump
+644;Zekrom;2%;1%;Jump
+645;Landorus;2%;1%;Hovering
+;(Incarnate Forme);;;
+0645T;Landorus;2%;1%;Hovering
+;(Therian Forme);;;
+646;Kyurem;2%;1%;Jump
+646;Kyurem;2%;1%;Jump
+;(Black Kyurem);;;
+646;Kyurem;2%;1%;Jump
+;(White Kyurem);;;
+647;Keldeo;2%;1%;Jump
+647;Keldeo;2%;1%;Jump
+;(Resolute Form);;;
+648;Meloetta;10000%;-;Jump
+;(Aria Forme);;;
+648;Meloetta;10000%;-;Jump
+;(Pirouette Forme);;;
+649;Genesect;2%;1%;Jump
+650;Chespin;20%;10%;Jump
+651;Quilladin;10%;10%;Jump
+652;Chesnaught;5%;10%;Jump
+653;Fennekin;20%;10%;Jump
+654;Braixen;10%;10%;Jump
+655;Delphox;5%;10%;Jump
+656;Froakie;20%;10%;Jump
+657;Frogadier;10%;10%;Jump
+658;Greninja;5%;10%;Jump
+659;Bunnelby;50%;10%;Jump
+660;Diggersby;20%;10%;Jump
+661;Fletchling;50%;20%;Jump
+662;Fletchinder;25%;9%;Flying
+663;Talonflame;12.5%;5%;Flying
+664;Scatterbug;50%;20%;Jump
+665;Spewpa;25%;9%;None
+666;Vivillon;12.5%;6%;Flying
+667;Litleo;50%;20%;Jump
+668;Pyroar;20%;7%;Jump
+669;Flabébé;50%;15%;Hovering
+670;Floette;25%;7%;Hovering
+671;Florges;12.5%;5%;Hovering
+672;Skiddo;20%;10%;Jump
+673;Gogoat;20%;10%;Jump
+674;Pancham;30%;9%;Jump
+675;Pangoro;10%;7%;Jump
+676;Furfrou;20%;7%;Jump
+677;Espurr;40%;10%;Jump
+678;Meowstic;20%;7%;Jump
+679;Honedge;20%;10%;Hovering
+680;Doublade;20%;10%;Hovering
+681;Aegislash;20%;10%;Hovering
+682;Spritzee;20%;10%;Hovering
+683;Aromatisse;20%;10%;Jump
+684;Swirlix;20%;10%;Hovering
+685;Slurpuff;20%;10%;Jump
+686;Inkay;20%;10%;Psychic
+687;Malamar;20%;10%;Jump
+688;Binacle;20%;10%;None
+689;Barbaracle;20%;10%;Jump
+690;Skrelp;20%;10%;Hovering
+691;Dragalge;20%;10%;Hovering
+692;Clauncher;20%;10%;Jump
+693;Clawitzer;20%;10%;Hovering
+694;Helioptile;20%;10%;Jump
+695;Heliolisk;20%;10%;Jump
+696;Tyrunt;20%;10%;Jump
+697;Tyrantrum;20%;10%;Jump
+698;Amaura;20%;10%;None
+699;Aurorus;20%;10%;Jump
+700;Sylveon;12.5%;6%;Jump
+701;Hawlucha;20%;10%;Jump
+702;Dedenne;20%;10%;Jump
+703;Carbink;20%;10%;Hovering
+704;Goomy;40%;9%;Jump
+705;Sliggoo;10%;7%;Jump
+706;Goodra;5%;5%;Jump
+707;Klefki;20%;10%;Hovering
+708;Phantump;30%;10%;Psychic
+709;Trevenant;15%;5%;None
+710;Pumpkaboo;30%;10%;Psychic
+711;Gourgeist;12.5%;6%;Psychic
+712;Bergmite;20%;10%;Jump
+713;Avalugg;20%;10%;None
+714;Noibat;40%;9%;Electric
+715;Noivern;15%;5%;Flying
+716;Xerneas;2%;10%;Jump
+717;Yveltal;2%;10%;Flying
+718;Zygarde;2%;10%;None
+719;Diancie;2%;10%;None
+720;Hoopa;100%;-;Psychic
+720;Hoopa;100%;-;Hovering
+;(Unbound);;;
+721;Volcanion;2%;10%;Jump
+722;Rowlet;20%;10%;Jump
+723;Dartrix;10%;10%;Jump
+724;Decidueye;5%;10%;Jump
+724;Decidueye;5%;10%;Jump
+;(Hisuian Form);;;
+725;Litten;20%;10%;Jump
+726;Torracat;10%;10%;Jump
+727;Incineroar;5%;10%;Jump
+728;Popplio;20%;10%;Jump
+729;Brionne;10%;10%;Jump
+730;Primarina;5%;10%;Jump
+731;Pikipek;50%;20%;Jump
+732;Trumbeak;25%;9%;Flying
+733;Toucannon;12.5%;5%;Jump
+734;Yungoos;50%;10%;Jump
+735;Gumshoos;20%;10%;Jump
+736;Grubbin;50%;20%;Jump
+737;Charjabug;25%;9%;Jump
+738;Vikavolt;12.5%;5%;Flying
+739;Crabrawler;20%;10%;Jump
+740;Crabominable;20%;10%;Jump
+741;Oricorio;20%;7%;Jump
+742;Cutiefly;50%;20%;Flying
+743;Ribombee;15%;7%;Flying
+744;Rockruff;20%;10%;Jump
+745;Lycanroc;20%;10%;Jump
+746;Wishiwashi;20%;7%;Jump
+747;Mareanie;20%;10%;Jump
+748;Toxapex;20%;10%;Jump
+749;Mudbray;20%;10%;Jump
+750;Mudsdale;20%;10%;Jump
+751;Dewpider;20%;10%;Jump
+752;Araquanid;20%;10%;Jump
+753;Fomantis;20%;10%;Jump
+754;Lurantis;20%;10%;Jump
+755;Morelull;20%;10%;Jump
+756;Shiinotic;20%;10%;Jump
+757;Salandit;20%;10%;Jump
+758;Salazzle;20%;10%;Jump
+759;Stufful;50%;10%;Jump
+760;Bewear;20%;6%;Jump
+761;Bounsweet;50%;20%;Jump
+762;Steenee;25%;9%;Jump
+763;Tsareena;12.5%;5%;Jump
+764;Comfey;20%;10%;Hovering
+765;Oranguru;20%;7%;Jump
+766;Passimian;20%;7%;Jump
+767;Wimpod;50%;70%;Jump
+768;Golisopod;20%;70%;Jump
+769;Sandygast;20%;10%;Jump
+770;Palossand;20%;10%;Jump
+771;Pyukumuku;20%;7%;Jump
+772;Type: Null;30%;-;Jump
+773;Silvally;30%;-;Jump
+774;Minior;20%;10%;Jump
+775;Komala;20%;10%;Jump
+776;Turtonator;20%;7%;Jump
+777;Togedemaru;20%;10%;Jump
+778;Mimikyu;20%;10%;Jump
+779;Bruxish;20%;10%;Jump
+780;Drampa;20%;7%;Jump
+781;Dhelmise;20%;10%;Jump
+782;Jangmo-o;40%;9%;Jump
+783;Hakamo-o;10%;7%;Jump
+784;Kommo-o;5%;5%;Jump
+785;Tapu Koko;2%;10%;Hovering
+786;Tapu Lele;2%;10%;Hovering
+787;Tapu Bulu;2%;10%;Hovering
+788;Tapu Fini;2%;10%;Hovering
+789;Cosmog;90%;10%;Hovering
+790;Cosmoem;50%;10%;Hovering
+791;Solgaleo;2%;10%;Jump
+792;Lunala;2%;10%;Flying
+793;Nihilego;2%;10%;Flying
+794;Buzzwole;2%;10%;Jump
+795;Pheromosa;2%;10%;Jump
+796;Xurkitree;2%;10%;Jump
+797;Celesteela;2%;10%;Jump
+798;Kartana;2%;10%;Jump
+799;Guzzlord;2%;10%;Jump
+800;Necrozma;2%;10%;Jump
+801;Magearna;2%;10%;Jump
+802;Marshadow;2%;10%;Jump
+803;Poipole;30%;-;Jump
+804;Naganadel;30%;-;Jump
+805;Stakataka;2%;10%;Jump
+806;Blacephalon;2%;10%;Jump
+807;Zeraora;2%;10%;Jump
+808;Meltan;30%;-;Jump
+809;Melmetal;30%;-;Jump
+810;Grookey;20%;10%;Jump
+811;Thwackey;10%;10%;Jump
+812;Rillaboom;6%;10%;None
+813;Scorbunny;20%;10%;Jump
+814;Raboot;10%;10%;Jump
+815;Cinderace;5%;10%;Jump
+816;Grookey;20%;10%;Jump
+817;Drizzile;10%;10%;Jump
+818;Inteleon;5%;10%;None
+819;Skwovet;60%;10%;Jump
+820;Greedent;30%;7%;Jump
+821;Rookidee;50%;10%;None
+822;Corvisquire;20%;7%;Flying
+823;Corviknight;12.5%;5%;Flying
+824;Blipbug;50%;10%;None
+825;Dottler;25%;7%;None
+826;Orbeetle;12.5%;5%;Hovering
+827;Nickit;50%;20%;Jump
+828;Thievul;20%;7%;Jump
+829;Gossifleur;50%;10%;None
+830;Eldegoss;20%;7%;None
+831;Wooloo;50%;10%;None
+832;Dubwool;20%;7%;None
+833;Chewtle;50%;10%;None
+834;Drednaw;20%;7%;None
+835;Yamper;50%;10%;Jump
+836;Boltund;20%;7%;Jump
+837;Rolycoly;50%;15%;None
+838;Carkol;25%;7%;None
+839;Coalossal;12.5%;5%;None
+840;Applin;40%;9%;None
+841;Flapple;10%;7%;Flying
+842;Appletun;10%;7%;None
+843;Silicobra;50%;20%;None
+844;Sandaconda;20%;7%;None
+845;Cramorant;20%;10%;None
+846;Arrokuda;50%;15%;Hovering
+847;Barraskewda;20%;7%;Hovering
+848;Toxel;25%;20%;None
+849;Toxtricity;10%;5%;None
+850;Sizzlipede;50%;20%;None
+851;Centiskorch;20%;7%;None
+852;Clobbopus;50%;20%;None
+853;Grapploct;20%;7%;None
+854;Sinistea;50%;20%;Hovering
+855;Polteageist;20%;7%;Hovering
+856;Hatenna;50%;15%;Psychic
+857;Hattrem;25%;7%;None
+858;Hatterene;50%;20%;None
+859;Impidimp;50%;15%;Jump
+860;Morgrem;25%;7%;None
+861;Grimmsnarl;12.5%;5%;None
+862;Obstagoon;4%;4%;Jump
+863;Perrserker;10%;7%;Jump
+864;Cursola;10%;7%;None
+865;Sirfetch'd;10%;7%;Jump
+866;Mr. Rime;30%;9%;Jump
+867;Runerigus;10%;7%;None
+868;Milcery;50%;20%;None
+869;Alcremie;20%;7%;None
+870;Falinks;20%;10%;Jump
+871;Pincurchin;20%;10%;None
+872;Snom;50%;20%;None
+873;Frosmoth;20%;7%;Flying
+874;Stonjourner;20%;10%;None
+875;Eiscue;20%;10%;None
+876;Indeedee;20%;10%;Jump
+877;Morpeko;20%;10%;Jump
+878;Cufant;50%;20%;None
+879;Copperajah;20%;7%;None
+880;Dracozolt;20%;9%;None
+881;Arctozolt;20%;9%;None
+882;Dracovish;20%;9%;None
+883;Arctovish;20%;9%;None
+884;Duraludon;20%;10%;None
+885;Dreepy;40%;9%;Hovering
+886;Drakloak;10%;7%;Hovering
+887;Dragapult;5%;5%;Hovering
+888;Zacian;2%;10%;Jump
+889;Zamazenta;2%;10%;Jump
+890;Eternatus;2%;10%;Flying
+891;Kubfu;2%;10%;Jump
+892;Urshifu;2%;10%;Jump
+893;Zarude;10%;0%;Jump
+894;Regieleki;2%;10%;Jump
+895;Regidrago;2%;10%;Jump
+896;Glastrier;2%;10%;Jump
+897;Spectrier;2%;10%;Jump
+898;Calyrex;2%;10%;Hovering
+898;Calyrex;2%;10%;Jump
+;(Ice Rider);;;
+898;Calyrex;2%;10%;Jump
+;(Shadow Rider);;;
+899;Wyrdeer;30%;7%;Jump
+900;Kleavor;5%;5%;Jump
+901;Ursaluna;15%;7%;Jump
+0901B;Ursaluna;15%;7%;Jump
+;(Blood Moon);;;
+902;Basculegion;20%;7%;Hovering
+;(male);;;
+902;Basculegion;20%;7%;Hovering
+;(female);;;
+903;Sneasler;30%;10%;Jump
+904;Overqwil;30%;10%;Hovering
+905;Enamorus;2%;1%;Hovering
+;(Incarnate Forme);;;
+0905T;Enamorus;2%;1%;Hovering
+;(Therian Forme);;;
+980;Clodsire;15%;7%;Jump
